@@ -7,4 +7,4 @@
 
 Cho, J. *et al*. LIN28A Is a Suppressor of ER-Associated Translation in Embryonic Stem Cells. *Cell* 151, 765–777 (2012).
 
-### My plan is to trim and filter the data of 'TermProj_2024_1' and then merge it with the GO data.
+### My plan is to trim the data of 'TermProj_2024_1' and then merge it with the GO data.
